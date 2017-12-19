@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppIcons</string>
+    <string name="save">保存图标</string>
+    <string name="loading_apps">加载应用列表...</string>
+    <string name="apps_loaded">安装应用数量：%1$d个</string>
+    <string name="load_app_failure">加载应用列表时出错，检查是否授予权限。</string>
+    <string name="save_complete">保存图标完成，图片保存到/sdcard/Pictures/下</string>
+    <string name="save_fail">保存出错。</string>
+</resources>
